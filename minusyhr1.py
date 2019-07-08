@@ -1,0 +1,5 @@
+har,ra=map(int,input().split())
+su,ne=map(int,input().split())
+f1=abs(har-su)
+f2=abs(ra-ne)
+print(f1,f2)
